@@ -41,10 +41,26 @@ The primary business task of this project is to analyze FitBit Fitness Tracker A
 
 6. **Heart Rate:** EDA and plots related to heart rate data.
 
-For a deeper dive into the analysis, you can take a look on the colab notebook -> [Colab Link](https://colab.research.google.com/drive/16U7Zbt6Ye5GGwe-saXMs2gLlGpTmR-vQ?usp=sharing) 
+## Usage
 
-Feel free to explore the provided code and documentation to gain insights into FitBit app usage and contribute to the ongoing enhancement of marketing strategies.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rupakbera21/FitBit-Fitness-Tracker-Analysis
+   cd your-repository
+   ```
+
+2. Run the script:
+
+   ```bash
+   python fitbit_consumer_behaviour_analysis.py
+   ```
+   OR
+   
+  For a deeper dive into the analysis, you can take a look on the colab notebook -> [Colab Link](https://colab.research.google.com/drive/16U7Zbt6Ye5GGwe-saXMs2gLlGpTmR-vQ?usp=sharing) 
 
 ## Acknowledgments
 Gratitude is extended to [Rushikesh Konapure](https://github.com/rishikonapure), my mentor, for invaluable guidance and insights throughout this project. Additionally, 
 a special acknowledgment to **PrepInsta** for presenting this enriching winter internship opportunity in the realm of data analytics.
+
+Feel free to explore the provided code and documentation to gain insights into FitBit app usage and contribute to the ongoing enhancement of marketing strategies.
